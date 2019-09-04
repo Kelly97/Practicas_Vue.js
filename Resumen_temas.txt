@@ -1,0 +1,25 @@
+Práctica 01 
+    v-for
+    v-if
+    v-model
+    v-model.number
+    computed
+    v-on:click
+    this
+    methods
+    data
+    el
+    key modifiers
+
+Práctica 02
+    :class
+
+Práctica 03
+    computed
+    :style
+
+Práctica 04
+    Ciclo de vida de Vue
+
+Práctica 5
+    Componentes
